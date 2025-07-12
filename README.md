@@ -30,7 +30,7 @@ This application allows users to:
 ## 🚀 How to Run
 
 1. Clone the repository  
-   `git clone https://github.com/your-username/your-repo-name.git`
+   `git clone https://github.com/MuhammadHassanRaza63/Karachi-House-Price-Estimatort`
 
 2. Set up virtual environment  
    `python -m venv venv && venv\Scripts\activate`
@@ -56,4 +56,6 @@ This system provides **approximate predictions** based on available data and sho
 ## 📬 Contact
 
 For questions or contributions, please reach out via GitHub Issues.
+hs6515700@gmail.com
++923177687828
 
